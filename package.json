@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronsnig501/natours.git"
+  },
+  "author": "aaronsnig501",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronsnig501/natours/issues"
+  },
+  "homepage": "https://github.com/aaronsnig501/natours#readme",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
